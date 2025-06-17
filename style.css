@@ -75,6 +75,14 @@ body {
   margin-top: 0;
 }
 
+.article-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 5px 0;
+  display: block;
+}
+
 /* Sidebar */
 .sidebar {
   flex: 1;
